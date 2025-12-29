@@ -17,6 +17,8 @@ modules:
       packages:
         - tealdeer
         - nu
+        - rust
+        - cargo
 
   - type: default-flatpaks
     configurations:
