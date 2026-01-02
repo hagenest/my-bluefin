@@ -19,6 +19,7 @@ modules:
         - nu
         - rust
         - cargo
+        - stream-devices
 
   - type: default-flatpaks
     configurations:
