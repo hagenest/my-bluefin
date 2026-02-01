@@ -54,15 +54,15 @@ modules:
     repository: "https://github.com/hagenest/dotfiles"
     file-conflict-policy: replace
 
-#  - type: gnome-extensions
-#    install:
-#      - AppIndicator and KStatusNotifierItem Support
-#      - Caffeine
-#      - Network Stats
-#      - Tiling Shell
-#      - Just Perfection
-#    uninstall:
-#      - GSConnect
+  - type: gnome-extensions
+    install:
+      - AppIndicator and KStatusNotifierItem Support
+      - Caffeine
+      - Network Stats
+      - Tiling Shell
+      - Just Perfection
+    uninstall:
+      - GSConnect
 
   - type: fonts
     fonts:
