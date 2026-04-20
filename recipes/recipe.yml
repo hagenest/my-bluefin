@@ -20,6 +20,7 @@ modules:
         - rust
         - cargo
         - btop
+        - sshuttle
 
   - type: default-flatpaks
     configurations:
